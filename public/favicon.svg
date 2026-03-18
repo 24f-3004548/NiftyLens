@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Navy background -->
+  <rect width="32" height="32" rx="6" fill="#1a3a5c"/>
+
+  <!-- N in white -->
+  <text x="5" y="23" font-family="Georgia, serif" font-size="20" font-weight="700" fill="#ffffff">N</text>
+
+  <!-- L in gold -->
+  <text x="17" y="23" font-family="Georgia, serif" font-size="20" font-weight="700" fill="#c8860a">L</text>
+</svg>
