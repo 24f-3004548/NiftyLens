@@ -2,7 +2,7 @@
 
 A market intelligence platform for the Nifty 50 index of the National Stock Exchange of India. NiftyLens pulls daily stock data via yfinance, engineers 30+ market health metrics in Python, stores everything in SQL Server, and surfaces it as a live Power BI dashboard embedded in a React web application.
 
-###The backend has not been deployed yet, so it won't update.
+### The backend has not been deployed yet, so it won't update.
 
 ---
 
