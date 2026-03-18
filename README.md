@@ -2,6 +2,8 @@
 
 A market intelligence platform for the Nifty 50 index of the National Stock Exchange of India. NiftyLens pulls daily stock data via yfinance, engineers 30+ market health metrics in Python, stores everything in SQL Server, and surfaces it as a live Power BI dashboard embedded in a React web application.
 
+###The backend has not been deployed yet, so it won't update.
+
 ---
 
 ## What it does
@@ -228,7 +230,6 @@ The navbar shows a live indicator of whether NSE is currently open or closed. Th
 
 - Market open: Monday to Friday, 9:15 AM to 3:30 PM IST
 - Pre-open session: 9:00 AM to 9:15 AM IST (not reflected in the indicator)
-- The indicator does not account for NSE holidays
 
 ---
 
